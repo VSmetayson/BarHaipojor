@@ -3,4 +3,6 @@
  Название: Бар Хайпожор 
   
  Описание проекта: Это приложение-сайт позволит людям узнать инфорамцию о баре, например: адрес, контакты, время работы, меню и тд. 
-![Логотип](https://octodex.github.com/images/orderedlistocat.png "Логотип GitHub")
+  
+
+![Логотип](https://logo-suggestion.renderforest.com/suggestions-images/66b5/9e55/66b59e551fe3194960151f7a42827e4b.png "Логотип GitHub")
