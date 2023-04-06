@@ -4,6 +4,7 @@
   
  Описание проекта: Это приложение-сайт позволит людям узнать инфорамцию о баре, например: адрес, контакты, время работы, меню и тд. 
   
-
+Необходимые условия для использования продукта:\
+dgfhgfdgd
   
-![Логотип](https://logo-suggestion.renderforest.com/suggestions-images/8f06/69db/8f0669dbd56ed76412b512925a84bd62.png "Логотип GitHub")
+![Логотип](https://logo-suggestion.renderforest.com/suggestions-images/8f06/69db/8f0669dbd56ed76412b512925a84bd62.png "Логотип Haipojor")
