@@ -90,6 +90,12 @@ _**Задание в разработке**_
 
 2. >Создайте 3 файла html, на которые будет производиться переход при помощи навигационной панели.
 
-Вот так это выглядело на начальной стадии 🔽
+Вот так это выглядело на начальной стадии ⏬
 ![Логотип]( https://sun9-33.userapi.com/impg/eM-pkRiqe8vuVcaahVdVWDIhPXR0KqiIuWsK9w/b5HCiMp4g_4.jpg?size=1919x971&quality=96&sign=9379e5c7d02bd21e716ecaf303c8b7af&type=album "Сайт")
 
+Вот так выглядит страница 🏠ГЛАВНАЯ🏠 ⏬
+![Логотип]( https://sun9-79.userapi.com/impg/byivq3YoTzA54xrxy_0NoX_tjOYURWB7ghBTNg/ZJLvnBcb724.jpg?size=1280x658&quality=96&sign=3bd5aecbe7010afbcf4eec2a5d0629ca&type=album "Сайт!")
+![Логотип]( https://sun9-38.userapi.com/impg/48JcBPXOcilcvC26n9Eg1G-OKmWTdbvlyb4rOw/QjH4OH7SAsA.jpg?size=1280x635&quality=96&sign=e1d9f9990606fae9a70534a66ee827d5&type=album "Сайт!!")
+![Логотип]( https://sun1-92.userapi.com/impg/sOkPfnt-HXNG170aKw0gTakW-PxIrudIN9vSRQ/G9fRi68jghc.jpg?size=1280x67&quality=96&sign=6c76424571b02cabe3e125db3e9776c0&type=album "Сайт!!!")
+
+_**Другие страницы находятся в разработке...**_
