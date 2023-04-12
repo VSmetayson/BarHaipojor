@@ -98,4 +98,10 @@ _**Задание в разработке**_
 ![Логотип]( https://sun9-38.userapi.com/impg/48JcBPXOcilcvC26n9Eg1G-OKmWTdbvlyb4rOw/QjH4OH7SAsA.jpg?size=1280x635&quality=96&sign=e1d9f9990606fae9a70534a66ee827d5&type=album "Сайт!!")
 ![Логотип]( https://sun1-92.userapi.com/impg/sOkPfnt-HXNG170aKw0gTakW-PxIrudIN9vSRQ/G9fRi68jghc.jpg?size=1280x67&quality=96&sign=6c76424571b02cabe3e125db3e9776c0&type=album "Сайт!!!")
 
-_**Другие страницы находятся в разработке...**_
+Вот так выглядит страница 📍АДРЕС📍 ⏬
+![Логотип]( https://sun9-33.userapi.com/impg/_tF-s2zSrm2Hl1J3ZfvoWpEb5Ka4xdxxjatRCg/-0mYmaJsLxc.jpg?size=1919x1005&quality=96&sign=97f3625016290796671656c64b85d79f&type=album "СайтАдрес")
+>Это реальные Яндекс Карты и их можно полноценн использовать.
+
+Вот так выглядит страница 📕МЕНЮ📕 ⏬
+![Логотип]( https://sun9-23.userapi.com/impg/zzQfMy8F4-6plF4c-24ZErJx6Ol3VF9ufZibCg/C4TBNeAECDY.jpg?size=1919x949&quality=96&sign=6386fcadabda9e5dec59828093545e04&type=album "СайтМеню")
+_Страница РЕГИСТАРЦИЯ пока непредусмотренна_
