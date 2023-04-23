@@ -78,9 +78,12 @@ _Проектирование БД для API интернет-магазина_
 ![Логотип]( https://sun9-7.userapi.com/impg/sv35usKI0gILk6VYOkRewlV6OoCBo_AN1R-2Iw/CTw0wHK6pWw.jpg?size=624x593&quality=96&sign=4479074ce81ae4d5c2b048240a33d4cd&type=album "База_Магаза")
 
 # Практика Задание №3.1
-_Миграция таблиц базы данных в приложение_
+_Миграция таблиц базы данных в приложение_ <br>
+Версии совпадают, а значит - всё нормально 👍<br>
+![Логотип]( https://sun9-18.userapi.com/impg/aBO1TlTZWxTcoJR8x_Ayra5uiyB47YJhMayJqg/Z9y8Fl5q3Gg.jpg?size=1919x1038&quality=96&sign=baf9c8b7e03d4a7aaae8ab9ca774fca9&type=album "версии")
+![Логотип]( https://sun9-7.userapi.com/impg/6uD_YDdAbcE-F3g4Pgnbj6mN1S4lqq17a_tdYw/CMOnsZ6Pnww.jpg?size=1919x1038&quality=96&sign=5ff7d8827ba2fe36d1fe5cb81363b7bb&type=album "версии2") 
 
-![Логотип]( https://sun9-39.userapi.com/impg/iFp5FRkVdp70-RUaKZgFW3qcQVYzw38xTARrXA/a8ryUsQ6vZk.jpg?size=460x330&quality=96&sign=54f41ab8d2db10d576a72635b94f4190&type=album "Ошибка")
+Название моей БД - Baza_Magaza. База успешно подключена.
 
 _**Задание в разработке**_
 
