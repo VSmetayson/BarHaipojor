@@ -2,7 +2,7 @@
  **Индивидульный проект по теме _Бар хайпожор_**\
  **Название: _Бар Хайпожор_** 
 
-<img src="https://logo-suggestion.renderforest.com/suggestions-images/8f06/69db/8f0669dbd56ed76412b512925a84bd62.png" width="500" height="500">
+<img src="https://sun9-25.userapi.com/impg/hPKureDvA8yf4zVBxZMo6xkKbEvguTL6Hy4oyA/dSCfY-JJLp8.jpg?size=450x450&quality=95&sign=6c253bbec9c13f96673c856d652a3ea6&type=album" width="500" height="500">
   
  **Описание проекта:**<br>
  _Краткое описание проекта_
@@ -108,3 +108,6 @@ _Миграция таблиц базы данных в приложение_ <b
 _Страница РЕГИСТАРЦИЯ непредусмотренна_
 
 # Практика Задание №5
+_Взаимодействие с Базой Данных_ 
+
+![Логотип]( https://sun1-24.userapi.com/impg/1LedmArZsBzEXcKdiZ02oWr7-9mdcQYeRcNUPg/VLxZyXICIxo.jpg?size=1919x1046&quality=96&sign=822d421bb4adbd5375f0b449e10db03d&type=album "задание5")
